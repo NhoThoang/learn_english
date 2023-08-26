@@ -47,11 +47,11 @@ def button(background1, imagebutton):
     images = load_images(imagebutton)
     for filename in range(10):
         current_image = int(filename)
-        images[str(current_image + 1)] = images[str(current_image + 1)].convert_alpha()
+        images[str(current_image + 1)] = images[str(current_image + 1)]
         screen.blit(images[str(current_image + 1)], (current_image * 100, 150))
     for i,filename in enumerate(range(10,20)):
         current_image = int(filename)
-        images[str(current_image + 1)] = images[str(current_image + 1)].convert_alpha()
+        images[str(current_image + 1)] = images[str(current_image + 1)]
         screen.blit(images[str(current_image + 1)], (i* 100, 250))
 
 def txt_list():
