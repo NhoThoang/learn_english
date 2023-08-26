@@ -1,0 +1,4 @@
+#pip install -r requirement.txt
+pygame==2.5.1
+pyttsx4==3.0.15
+pywin32==306
