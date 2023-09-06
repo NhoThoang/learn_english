@@ -1,1 +1,2 @@
 Cat,Dog,Fish,Chicken,Pig,Rat,Ox,Tiger,Cow,Rabbit,Dragon,Snake,Horse,Monkey,Sheep,Goat,Rooster,spider,Fox,Bird
+cat,Dog,Fish,Chicken,Pig,Rat,Ox,Tiger,Cow,Rabbit,Dragon,Snake,Horse,Monkey,Sheep,Goat,Rooster,spider,Fox,Bird
